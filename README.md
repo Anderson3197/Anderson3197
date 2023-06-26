@@ -19,7 +19,7 @@ and experience to contribute to the growth and success of the company..
 <br>
 
 <a href="https://github.com/anderson3197/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anderson3197" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anderson3197&show_icons=true&line_height=27&count_private=true" />
 </a>
 
 <a href="https://github.com/anderson3197">
